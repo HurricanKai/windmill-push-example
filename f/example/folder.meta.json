@@ -3,6 +3,6 @@
         "g/all"
     ],
     "extra_perms": {
-        "g/all": false
+        "g/all": true
     }
 }
