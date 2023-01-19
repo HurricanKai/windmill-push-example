@@ -35,3 +35,7 @@ do so, create a separate account that can only access this specific workspace
 and only has read access and use a token issued using this account. This can be
 done using the UI or the
 [wmill cli](https://github.com/windmill-labs/windmill/blob/main/cli/README.md).
+
+It may additionally be useful to restrict the GitHub environment.
+[The GitHub help article](https://docs.github.com/en/actions/deployment/targeting-different-environments/using-environments-for-deployment)
+goes into detail of all the options.
